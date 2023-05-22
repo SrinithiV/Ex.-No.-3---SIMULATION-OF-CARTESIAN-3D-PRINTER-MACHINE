@@ -76,10 +76,23 @@
 
 ![ex43](https://github.com/SrinithiV/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118722030/966c70f5-b3ee-4d53-8821-6e014fb58398)
 
+#### Z-Axis Rod : The z-axis rod is an important component of a 3D printer that helps control the vertical movement of the print head or build plate. It is typically a cylindrical rod that runs vertically along the z-axis of the printer, allowing precise positioning of the print head or build plate.The z-axis rod is usually made of a rigid material such as stainless steel, aluminum, or hardened steel.
+#### Z-Axis Top Cover : The z-axis top cover in a 3D printer refers to the protective enclosure or housing that covers the upper section of the z-axis mechanism.The z-axis top cover helps shield the internal components of the z-axis mechanism from dust, debris, and accidental contact. 
+####  Motor :  Stepper motors are widely used in 3D printers due to their precise control and ability to move in discrete steps. They are typically used to drive the printer's X, Y, and Z-axis movements, as well as the extruder. Stepper motors provide accurate positioning and can hold their position without power, which is essential for precise layer-by-layer printing.
+
 
 ## Complete-Axis Assembly
 
 ![ex44](https://github.com/SrinithiV/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118722030/6dd85d8c-db66-4cb2-bd44-5a8ff8f0bada)
+
+### Frame : The frame refers to the structural framework or chassis that provides support, stability, and rigidity to the entire 3D printer. It serves as the foundation on which all other components, including the print bed, print head, motors, electronics, and motion systems, are mounted.
+### X-Axis Assembly : The X-axis assembly refers to the component of the printer responsible for the horizontal movement along the X-axis. It is one of the essential parts of a typical Cartesian 3D printer, along with the Y-axis and Z-axis assemblies.
+### Y-Axis Assembly : The Y-axis assembly refers to the component of the printer responsible for the movement along the Y-axis. It is one of the essential parts of a typical Cartesian 3D printer, which uses three perpendicular axes (X, Y, and Z) to build objects layer by layer.
+### Z-Axis Assembly :
+### SMPS :
+### LCD :
+### Spool Holder :
+### Spool :
 
 
 ## Playing with Axes
