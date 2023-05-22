@@ -54,8 +54,10 @@
 
 ![ex41](https://github.com/SrinithiV/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118722030/afbaca32-d301-4907-b4d3-32ed69721858)
 
-#### Smooth Rod : Smooth rods are long, cylindrical rods that are used in a variety of applications, including in 3D printers. In a 3D printer, smooth rods are typically used as part of the printer's linear motion system, which is responsible for moving the print head and print bed.
-#### Bearing : A bearing is defined as a mechanical component that constrains relative movement to the desired motion within the same axis and also reduces friction between moving parts. 
+#### Smooth Rod : 
+Smooth rods are long, cylindrical rods that are used in a variety of applications, including in 3D printers. In a 3D printer, smooth rods are typically used as part of the printer's linear motion system, which is responsible for moving the print head and print bed.
+#### Bearing : 
+A bearing is defined as a mechanical component that constrains relative movement to the desired motion within the same axis and also reduces friction between moving parts. 
 #### Idler : An idler wheel to push the filament into the teeth of the drive wheel. An idler wheel usually is a round bearing pushed by a spring or a rubber bushing.
 #### Extruder : Extrude is defined by Merriam-Webster as “to force, press, or push out.” Extrusion in the context of 3D printing is pushing heated filament through the nozzle – this is done by the extruder. An Extruder is a component of a 3D printer made up of a stepper motor, heat sink, fan, hot end, and nuts and bolts to hold the assembly together.
 #### Motor : Stepper motors are widely used in 3D printers due to their precise control and ability to move in discrete steps. They are typically used to drive the printer's X, Y, and Z-axis movements, as well as the extruder. Stepper motors provide accurate positioning and can hold their position without power, which is essential for precise layer-by-layer printing.
